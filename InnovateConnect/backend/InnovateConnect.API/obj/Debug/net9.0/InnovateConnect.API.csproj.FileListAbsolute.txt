@@ -1,0 +1,504 @@
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\appsettings.Development.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\appsettings.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.staticwebassets.endpoints.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.exe
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Humanizer.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\MySqlConnector.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.CodeDom.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.csproj.AssemblyReference.cache
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.AssemblyInfoInputs.cache
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.AssemblyInfo.cs
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.csproj.CoreCompileInputs.cache
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.MvcApplicationPartsAssemblyInfo.cs
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.MvcApplicationPartsAssemblyInfo.cache
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\scopedcss\bundle\InnovateConnect.API.styles.css
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.build.json
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.development.json
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\Innovate.C5471424.Up2Date
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.dll
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\refint\InnovateConnect.API.dll
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.pdb
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\appsettings.Development.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\appsettings.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\InnovateConnect.API.staticwebassets.endpoints.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\InnovateConnect.API.exe
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\InnovateConnect.API.deps.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\InnovateConnect.API.runtimeconfig.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\InnovateConnect.API.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\InnovateConnect.API.pdb
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Humanizer.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.AspNetCore.OpenApi.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.Bcl.AsyncInterfaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.Build.Locator.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.CodeAnalysis.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.CodeAnalysis.CSharp.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.CodeAnalysis.Workspaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.EntityFrameworkCore.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.EntityFrameworkCore.Design.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.EntityFrameworkCore.Relational.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.Extensions.DependencyModel.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.IdentityModel.Abstractions.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.IdentityModel.Logging.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.IdentityModel.Protocols.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.IdentityModel.Tokens.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Microsoft.OpenApi.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Mono.TextTemplating.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\MySqlConnector.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\Pomelo.EntityFrameworkCore.MySql.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\System.CodeDom.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\System.Composition.AttributedModel.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\System.Composition.Convention.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\System.Composition.Hosting.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\System.Composition.Runtime.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\System.Composition.TypedParts.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\System.IdentityModel.Tokens.Jwt.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\cs\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\de\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\es\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\fr\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\it\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ja\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ko\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pl\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ru\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\tr\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin_alt\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.genruntimeconfig.cache
+F:\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\ref\InnovateConnect.API.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\appsettings.Development.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\appsettings.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\InnovateConnect.API.deps.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\InnovateConnect.API.runtimeconfig.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\InnovateConnect.API.staticwebassets.endpoints.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.deps.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.runtimeconfig.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.pdb
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\appsettings.Development.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\appsettings.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\bin_alt\appsettings.Development.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\bin_alt\appsettings.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\bin_alt\InnovateConnect.API.deps.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\bin_alt\InnovateConnect.API.runtimeconfig.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\bin_alt\InnovateConnect.API.staticwebassets.endpoints.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\InnovateConnect.API.staticwebassets.endpoints.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\InnovateConnect.API.exe
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\InnovateConnect.API.deps.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\InnovateConnect.API.runtimeconfig.json
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\InnovateConnect.API.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\InnovateConnect.API.pdb
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Humanizer.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.AspNetCore.OpenApi.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.Bcl.AsyncInterfaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.Build.Locator.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.CodeAnalysis.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.CodeAnalysis.CSharp.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.CodeAnalysis.Workspaces.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.EntityFrameworkCore.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.EntityFrameworkCore.Design.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.EntityFrameworkCore.Relational.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.Extensions.DependencyModel.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.IdentityModel.Abstractions.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.IdentityModel.Logging.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.IdentityModel.Protocols.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.IdentityModel.Tokens.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Microsoft.OpenApi.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Mono.TextTemplating.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\MySqlConnector.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\Pomelo.EntityFrameworkCore.MySql.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\System.CodeDom.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\System.Composition.AttributedModel.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\System.Composition.Convention.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\System.Composition.Hosting.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\System.Composition.Runtime.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\System.Composition.TypedParts.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\System.IdentityModel.Tokens.Jwt.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\cs\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\de\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\es\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\fr\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\it\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ja\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ko\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pl\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ru\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\tr\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\build_out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\appsettings.Development.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\appsettings.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\appsettings.Development.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\appsettings.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\InnovateConnect.API.deps.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\InnovateConnect.API.runtimeconfig.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\InnovateConnect.API.staticwebassets.endpoints.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\InnovateConnect.API.deps.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\InnovateConnect.API.runtimeconfig.json
+F:\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\InnovateConnect.API.staticwebassets.endpoints.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\appsettings.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\appsettings.Development.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\appsettings.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\InnovateConnect.API.deps.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\InnovateConnect.API.runtimeconfig.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\bin_alt\InnovateConnect.API.staticwebassets.endpoints.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\appsettings.Development.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\appsettings.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\appsettings.Development.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\appsettings.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\InnovateConnect.API.deps.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\InnovateConnect.API.runtimeconfig.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\bin_alt\InnovateConnect.API.staticwebassets.endpoints.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\InnovateConnect.API.deps.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\InnovateConnect.API.runtimeconfig.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\build_out\InnovateConnect.API.staticwebassets.endpoints.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.staticwebassets.endpoints.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.exe
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.deps.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.runtimeconfig.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\InnovateConnect.API.pdb
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Humanizer.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\MySqlConnector.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.csproj.AssemblyReference.cache
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.AssemblyInfoInputs.cache
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.AssemblyInfo.cs
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.csproj.CoreCompileInputs.cache
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\scopedcss\bundle\InnovateConnect.API.styles.css
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\Innovate.C5471424.Up2Date
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\refint\InnovateConnect.API.dll
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.pdb
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\InnovateConnect.API.genruntimeconfig.cache
+D:\Mohini\CDAC PG-DAC\Projects\DotNet Working Project\FinalNochange code\InnovateConnect\InnovateConnect\backend\InnovateConnect.API\obj\Debug\net9.0\ref\InnovateConnect.API.dll

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\controllers\\ideascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\controllers\\ideascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\models\\idea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\models\\idea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|d:\\mohini\\cdac pg-dac\\projects\\dotnet working project\\finalnochange code\\innovateconnect\\innovateconnect\\backend\\innovateconnect.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C872BD-7BEE-4DFE-97A4-725FF11E2942}|InnovateConnect.API\\InnovateConnect.API.csproj|solutionrelative:innovateconnect.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:25:37.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdeasController.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\IdeasController.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Controllers\\IdeasController.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\IdeasController.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Controllers\\IdeasController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:19:54.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Idea.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Models\\Idea.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Models\\Idea.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Models\\Idea.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Models\\Idea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:01:24.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Program.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Program.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Program.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T07:56:10.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T07:42:02.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\appsettings.json",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\appsettings.json",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\appsettings.json",
+              "RelativeToolTip": "InnovateConnect.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T08:10:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "InnovateConnect.API\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T07:42:18.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:36:10.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwJUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:35:19.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "InnovateConnect.API\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "D:\\Mohini\\CDAC PG-DAC\\Projects\\DotNet Working Project\\FinalNochange code\\InnovateConnect\\InnovateConnect\\backend\\InnovateConnect.API\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "InnovateConnect.API\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:39:26.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
